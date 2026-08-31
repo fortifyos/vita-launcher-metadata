@@ -3,8 +3,8 @@ return {
     year = "2014",
     players = "1 Player",
     highlights = {
-        "A peaceful-looking puzzle-platform adventure in which a small 2D world can be rotated to reveal its hidden 3D structure.",
-        "Turning the world changes which platforms connect, opening routes that did not exist from the previous view. Exploration mixes gentle platforming with codes, maps, and larger mysteries for players who want to dig deeper.",
-        "Players who enjoy quiet exploration and puzzles built around perspective rather than pressure."
+        "A tiny hero discovers that his seemingly flat world has hidden dimensions and a mystery written into its fabric.",
+        "Rotate the world in ninety-degree steps to reveal new paths, solve spatial puzzles, and decode secrets beyond the main journey.",
+        "For patient explorers who enjoy clever perspective puzzles and uncovering layers of hidden meaning."
     }
 }

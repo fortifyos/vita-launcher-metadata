@@ -3,8 +3,8 @@ return {
     year = "2017",
     players = "1 Player",
     highlights = {
-        "A flashy action game set in the Fate universe, where rival Servants fight over control of a digital lunar world.",
-        "Large enemy groups are cleared with character-specific combo strings and special attacks, while battlefield objectives keep missions moving. Different playable Servants offer distinct movesets and presentation.",
-        "Players who know the Fate setting or want character-driven crowd action with a theatrical anime style."
+        "The winner of a digital Holy Grail War must defend the Moon Cell from rival forces and a threat tied to ancient history.",
+        "Control powerful Servants in battlefield-scale action, capture sectors, and develop each character through story routes and upgrades.",
+        "For players who know the Fate universe and want story-heavy hack-and-slash combat on a portable system."
     }
 }
