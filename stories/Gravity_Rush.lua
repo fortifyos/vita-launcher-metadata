@@ -1,10 +1,1 @@
-return {
-    genre = "Action-adventure",
-    year = "2012",
-    players = "1 Player",
-    highlights = {
-        "A comic-book-styled adventure about a heroine who can redirect gravity and turn an entire floating city into her route forward.",
-        "You shift gravity to fall in any direction, then combine aerial movement with light combat and mission-based exploration. Learning to orient yourself is part of the fun.",
-        "Players looking for an imaginative Vita-exclusive concept with movement that feels unlike a standard action game."
-    }
-}
+return { genre = "Action-adventure", year = "2012", players = "1 Player", highlights = { "A young woman awakens in a floating city with the power to redirect gravity.", "Shift gravity to fly, fight, and explore vertical spaces while solving a crisis threatening the city.", "For players who want stylish exploration with unusual movement and comic-book presentation." } }
