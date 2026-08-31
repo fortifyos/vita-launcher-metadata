@@ -4,7 +4,10 @@ return {
     genre = "Genre",
     year = "Release year",
     players = "Player count",
-    synopsis = "In one or two original sentences, explain what makes this game worth considering.",
-    gameplay = "Describe the core loop, controls, pace, and the challenge a player should expect.",
-    ideal_for = "Name the type of player, mood, or session this game serves best."
+    highlights = {
+        "A concise original point about what makes the game distinct.",
+        "The core loop, controls, pace, or challenge a player should expect.",
+        "The type of player, mood, or session this game serves best."
+    }
 }
+
