@@ -24,13 +24,16 @@ return {
     genre = "Action / Adventure",
     year = "2012",
     players = "1 Player",
-    synopsis = "A concise original description of the experience.",
-    gameplay = "The core loop, controls, pacing, and challenge.",
-    ideal_for = "The player or mood this title best suits."
+    highlights = {
+        "A concise original point about what makes the game distinct.",
+        "The core loop, controls, pacing, and challenge.",
+        "The player or mood this title best suits."
+    }
 }
 ```
 
-Keep every text field concise and written from scratch. Facts such as release
+Keep every bullet concise and written from scratch. The game title already
+appears in the launcher header, so do not repeat it in a highlight. Facts such as release
 year and player count should be verified against official material or an open
 facts source. Do not copy long editorial descriptions, reviews, screenshots,
 or artwork from third-party sites.
