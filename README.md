@@ -13,6 +13,10 @@ The launcher requests `stories/<game-key>.lua`. Game keys are Vita/PSP title
 IDs when available; otherwise they are the game's filename or title with
 non-alphanumeric characters replaced by underscores.
 
+For the North American Vita catalogue, the launcher falls back to the combined
+`catalogue.lua` file after a title-specific entry is not found. Downloading it
+once makes the available entries work offline.
+
 ## Story format
 
 ```lua
@@ -35,3 +39,11 @@ or artwork from third-party sites.
 
 Vita Launcher v0.2.29 and later use this repository by default. Downloaded
 metadata is cached in `ux0:/data/RetroFlow/GAME_STORIES/`.
+
+## Coverage
+
+`catalogue/psvita-north-america.tsv` currently tracks 1,000 North American PS
+Vita releases. `catalogue.lua` supplies baseline original genre guidance for
+every entry; entries marked `editorial_status = "baseline"` can be expanded
+with title-specific prose without changing the launcher format.
+
