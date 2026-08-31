@@ -14,3 +14,11 @@ The Game Story prose in `stories/` is written independently for Vita Launcher.
 It is not copied from the release-list source, Push Square, reviews, store
 pages, screenshots, or other editorial sources.
 
+## Fact research
+
+`tools/fetch-wikipedia-intros.mjs` can retrieve introductory English Wikipedia
+material to verify game settings, mechanics, and scope while stories are being
+authored. Its generated research cache is deliberately ignored by Git and is
+never downloaded by Vita Launcher. Published `highlights` remain short,
+independently written summaries; the source material is not redistributed.
+
