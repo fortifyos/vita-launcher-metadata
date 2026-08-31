@@ -1,10 +1,10 @@
 return {
     genre = "Sports",
     year = "2012",
-    players = "1 Player",
+    players = "1-2 Players / Online Multiplayer",
     highlights = {
-        "A portable football game built around recognizable clubs, leagues, and a straightforward match-day format.",
-        "Passing, shooting, defending, set pieces, and choosing a formation make up the core of each match. Career and tournament-style modes provide a reason to return beyond a single exhibition game.",
-        "Players who want quick football matches on the go and prefer a familiar season-and-tournament structure."
+        "An official football game with licensed clubs, leagues, players, and stadium presentation from the 2012-13 season.",
+        "Play quick matches, tournaments, and career modes using touch-assisted passing and shooting alongside traditional controls.",
+        "For football fans who want a full-featured portable season mode and local head-to-head matches."
     }
 }
